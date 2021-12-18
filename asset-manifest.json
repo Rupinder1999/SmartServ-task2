@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SmartServ-task1/static/css/main.81b06a38.css",
-    "main.js": "/SmartServ-task1/static/js/main.3047d904.js",
-    "static/js/787.a423396b.chunk.js": "/SmartServ-task1/static/js/787.a423396b.chunk.js",
-    "index.html": "/SmartServ-task1/index.html",
-    "main.81b06a38.css.map": "/SmartServ-task1/static/css/main.81b06a38.css.map",
-    "main.3047d904.js.map": "/SmartServ-task1/static/js/main.3047d904.js.map",
-    "787.a423396b.chunk.js.map": "/SmartServ-task1/static/js/787.a423396b.chunk.js.map"
+    "main.css": "/SmartServ-task2/static/css/main.81b06a38.css",
+    "main.js": "/SmartServ-task2/static/js/main.bad7caa2.js",
+    "static/js/787.a423396b.chunk.js": "/SmartServ-task2/static/js/787.a423396b.chunk.js",
+    "index.html": "/SmartServ-task2/index.html",
+    "main.81b06a38.css.map": "/SmartServ-task2/static/css/main.81b06a38.css.map",
+    "main.bad7caa2.js.map": "/SmartServ-task2/static/js/main.bad7caa2.js.map",
+    "787.a423396b.chunk.js.map": "/SmartServ-task2/static/js/787.a423396b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81b06a38.css",
-    "static/js/main.3047d904.js"
+    "static/js/main.bad7caa2.js"
   ]
 }
