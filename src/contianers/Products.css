@@ -1,0 +1,50 @@
+body {
+    font-family: 'lato', sans-serif;
+    height: 100vh;
+    min-height: 400px;
+    min-width: 600px;
+}
+.container {
+  max-width: 1000px;
+  padding-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+li {
+  border-radius: 3px;
+  padding: 25px 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+.table-header {
+  background-color: #7887f3;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  box-shadow: 5px 5px 2px  rgba(0,0,0,0.1);
+  color: white;
+}
+.table-row {
+  background-color: #ffffff;
+  box-shadow: 5px 5px 2px  rgba(0,0,0,0.1);
+  
+}
+.Title{
+  flex-basis: 40%;
+}
+.Subcatergory{
+  flex-basis: 30%;
+  
+}
+.Price{
+  flex-basis: 15%;
+}
+.Popularity{
+  flex-basis: 15%;
+  
+}
