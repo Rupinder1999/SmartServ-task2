@@ -262,11 +262,11 @@ return (
      </div>
    </div>
    <div className="container-btn-action">
-   <a href='/#productTable'> <button onClick={()=>setTest(true)} className="btn-next">Next</button></a>
+   <button onClick={()=>setTest(true)} className="btn-next">Next</button>
         <button onClick={()=>setTest(false)} className="btn-cancel">Cancel</button>
       </div>
       <div  className="container-productsTable">
-      <div   id="productTable" className="container-productsTable">
+      <div   className="container-productsTable">
       {test && <Product fields={right.rightFields}  items={products} />}
     </div>
     </div>
